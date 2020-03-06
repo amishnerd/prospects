@@ -1,126 +1,126 @@
 City,State,Average Salary,Job Openings
-Austin,TX,"$63,924",86
-Denver,CO,"$77,402",181
-Colorado Springs,CO,"$58,686",7
-Fayetteville,AR,"$54,929",19
-Des Moines,IA,"$72,170",22
-Minneapolis-St. Pau,MN,"$67,122",0
-San Francisco,CA,"$92,498",207
-Portland,OR,"$67,880",41
-Seattle,WA,"$81,519",130
-Raleigh Durham,NC,"$63,193",55
-Huntsville,AL,"$58,017",11
-Madison,WI,"$100,662",14
-Grand Rapids,MI,"$57,225",11
-San Jose,CA,"$87,059",179
-Nashville,TN,"$67,187",51
-Ashville,NC,"$54,747",3
-Boise,ID,"$56,828",16
-Sarasota,FL,"$55,593",8
-"Washington, DC",DC,"$83,858",555
-Charlotte,NC,"$101,284",73
-Dallas-Fort Worth,TX,"$45,485",115
-Greenville,SC,"$57,444",10
-Portland,ME,"$50,995",8
-Salt Lake City,UT,"$75,686",57
-Melbourne,FL,"$56,120",2
-Phoenix,AZ,"$76,096",103
-Boston,MA,"$77,840",236
-Albandy,NY,"$71,385",0
-Lexington-Fayette,KY,"$54,686",5
-Houston,TX,"$73,062",76
-Winston-Salem,NC,"$56,460",17
-Omaha,NE,"$55,609",21
-Reno,NV,"$58,653",5
-San Antonio,TX,"$83,577",21
-Fort Myers,FL,"$56,593",2
-San Diego,CA,"$68,102",76
-Pensacola,FL,"$54,166",7
-Indianapolis,IN,"$56,594",37
-Cincinnati,OH,"$68,062",47
-Fort Wayne,IN,"$45,368",3
-Lansing,MI,"$70,490",16
-Jacksonville,FL,"$56,689",14
-Manchester,NH,"$59,341",16
-Harrisburg,PA,"$63,409",17
-Charleston,SC,"$58,807",6
-Knoxville,TN,"$60,289",6
-Hartford,CT,"$48,875",46
-Lancaster,PA,"$55,165",6
-Kansas City,MO,"$63,928",44
-Pittsburgh,PA,"$54,999",49
-Columbus ,OH,"$69,690",49
-Buffalo,NY,"$64,065",12
-Richmond,VA,"$67,878",27
-Syracuse,NY,"$58,820",13
-Chattanooga,TN,"$76,631",2
-Tampa,FL,"$73,775",62
-Atlanta,GA,"$71,850",170
-Rochester,NY,"$47,319",7
-Lakeland,FL,"$53,962",3
-Honolulu,HI,"$59,944",11
-Milwaukee,WI,"$79,710",25
-Worchester,MA,"$74,251",0
-Orlando,FL,"$72,547",49
-Louisville,KY,"$48,913",17
-Spokane,WA,"$51,895",6
-Greensboro,NC,"$56,735",11
-Columbia,SC,"$45,368",18
-Oklahoma City,OK,"$88,481",21
-Dayton,OH,"$80,582",30
-Anchorage,AK,"$61,896",5
-Las Vegas,NV,"$59,846",19
-Augusta,GA,"$55,407",6
-Santa Barbara,CA,"$76,792",4
-Santa Rosa,CA,"$63,924",8
-Myrtle Beach,SC,"$52,502",0
-Tucson,AZ,"$70,773",3
-Salem,OR,"$105,531",2
-Port St. Lucie,FL,"$53,830",1
-Wichita,KS,"$55,541",7
-Springfield,MO,"$52,813",5
-St. Louis,MO,"$65,369",99
-Sacramento,CA,"$69,119",30
-Tulsa,OK,"$57,260",6
-Reading ,PA,"$65,172",10
-Cleveland,OH,"$65,755",31
-Springfield,MA,"$62,089",34
-York,PA,"$52,974",22
-Little Rock,AR,"$63,600",23
-Birmingham,AL,"$54,892",20
-New York City,NY,"$74,915",528
-Providence,RI,"$62,635",25
-Detroit,MI,"$70,109",60
-Allentown ,PA,"$40,748",11
-Toledo,OH,"$56,309",2
-New Haven,CT,"$63,005",22
-Lafayette,LA,"$55,852",4
-Youngstown,OH,"$53,789",16
-Scranton,PA,"$55,851",11
-Daytona Beach,FL,"$53,872",5
-Baltimore,MD,"$86,191",97
-Killeen,TX,"$51,142",20
-Philadelphia,PA,"$71,872",171
-Virginia Beach,VA,"$56,881",30
-Chicago,IL,"$73,041",199
-Corpus Christi,TX,"$55,890",1
-Albuquerque,NM,"$58,249",9
-Los Angeles,CA,"$73,934",164
-Beaumont,TX,"$55,174",0
-Baton Rouge,LA,"$58,626",13
-El Paso,TX,"$36,786",3
-Jackson,MS,"$56,851",7
-McAllen ,TX,"$50,552",1
-Miami,FL,"$64,384",46
-New Orleans,LA,"$53,047",5
-Flint,MI,"$52,617",1
-Brownsville,TX,"$49,968",1
-Salinas,CA,"$60,591",2
-Memphis,TN,"$43,121",9
-Fresno,CA,"$60,100",3
-Modesto,CA,"$59,367",4
-Mobile,AL,"$55,249",1
-Shreveport,LA,"$55,397",3
-Stockton,CA,"$59,113",6
-Bakersfield,CA,"$59,792",2
-San Juan,PR,"$34,833",7
+Austin,TX,63924,86
+Denver,CO,77402,181
+Colorado Springs,CO,58686,7
+Fayetteville,AR,54929,19
+Des Moines,IA,72170,22
+Minneapolis-St. Pau,MN,67122,0
+San Francisco,CA,92498,207
+Portland,OR,67880,41
+Seattle,WA,81519,130
+Raleigh Durham,NC,63193,55
+Huntsville,AL,58017,11
+Madison,WI,100662,14
+Grand Rapids,MI,57225,11
+San Jose,CA,87059,179
+Nashville,TN,67187,51
+Ashville,NC,54747,3
+Boise,ID,56828,16
+Sarasota,FL,55593,8
+"Washington, DC",DC,83858,555
+Charlotte,NC,101284,73
+Dallas-Fort Worth,TX,45485,115
+Greenville,SC,57444,10
+Portland,ME,50995,8
+Salt Lake City,UT,75686,57
+Melbourne,FL,56120,2
+Phoenix,AZ,76096,103
+Boston,MA,77840,236
+Albandy,NY,71385,0
+Lexington-Fayette,KY,54686,5
+Houston,TX,73062,76
+Winston-Salem,NC,56460,17
+Omaha,NE,55609,21
+Reno,NV,58653,5
+San Antonio,TX,83577,21
+Fort Myers,FL,56593,2
+San Diego,CA,68102,76
+Pensacola,FL,54166,7
+Indianapolis,IN,56594,37
+Cincinnati,OH,68062,47
+Fort Wayne,IN,45368,3
+Lansing,MI,70490,16
+Jacksonville,FL,56689,14
+Manchester,NH,59341,16
+Harrisburg,PA,63409,17
+Charleston,SC,58807,6
+Knoxville,TN,60289,6
+Hartford,CT,48875,46
+Lancaster,PA,55165,6
+Kansas City,MO,63928,44
+Pittsburgh,PA,54999,49
+Columbus ,OH,69690,49
+Buffalo,NY,64065,12
+Richmond,VA,67878,27
+Syracuse,NY,58820,13
+Chattanooga,TN,76631,2
+Tampa,FL,73775,62
+Atlanta,GA,71850,170
+Rochester,NY,47319,7
+Lakeland,FL,53962,3
+Honolulu,HI,59944,11
+Milwaukee,WI,79710,25
+Worchester,MA,74251,0
+Orlando,FL,72547,49
+Louisville,KY,48913,17
+Spokane,WA,51895,6
+Greensboro,NC,56735,11
+Columbia,SC,45368,18
+Oklahoma City,OK,88481,21
+Dayton,OH,80582,30
+Anchorage,AK,61896,5
+Las Vegas,NV,59846,19
+Augusta,GA,55407,6
+Santa Barbara,CA,76792,4
+Santa Rosa,CA,63924,8
+Myrtle Beach,SC,52502,0
+Tucson,AZ,70773,3
+Salem,OR,105531,2
+Port St. Lucie,FL,53830,1
+Wichita,KS,55541,7
+Springfield,MO,52813,5
+St. Louis,MO,65369,99
+Sacramento,CA,69119,30
+Tulsa,OK,57260,6
+Reading ,PA,65172,10
+Cleveland,OH,65755,31
+Springfield,MA,62089,34
+York,PA,52974,22
+Little Rock,AR,63600,23
+Birmingham,AL,54892,20
+New York City,NY,74915,528
+Providence,RI,62635,25
+Detroit,MI,70109,60
+Allentown ,PA,40748,11
+Toledo,OH,56309,2
+New Haven,CT,63005,22
+Lafayette,LA,55852,4
+Youngstown,OH,53789,16
+Scranton,PA,55851,11
+Daytona Beach,FL,53872,5
+Baltimore,MD,86191,97
+Killeen,TX,51142,20
+Philadelphia,PA,71872,171
+Virginia Beach,VA,56881,30
+Chicago,IL,73041,199
+Corpus Christi,TX,55890,1
+Albuquerque,NM,58249,9
+Los Angeles,CA,73934,164
+Beaumont,TX,55174,0
+Baton Rouge,LA,58626,13
+El Paso,TX,36786,3
+Jackson,MS,56851,7
+McAllen ,TX,50552,1
+Miami,FL,64384,46
+New Orleans,LA,53047,5
+Flint,MI,52617,1
+Brownsville,TX,49968,1
+Salinas,CA,60591,2
+Memphis,TN,43121,9
+Fresno,CA,60100,3
+Modesto,CA,59367,4
+Mobile,AL,55249,1
+Shreveport,LA,55397,3
+Stockton,CA,59113,6
+Bakersfield,CA,59792,2
+San Juan,PR,34833,7
