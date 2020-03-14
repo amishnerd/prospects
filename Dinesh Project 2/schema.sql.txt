@@ -1,0 +1,49 @@
+DROP TABLE IF EXISTS rankings;
+DROP TABLE IF EXISTS output_file;
+DROP TABLE IF EXISTS final_df_weights;
+
+CREATE TABLE rankings(
+  rank INTEGER PRIMARY KEY,
+  city VARCHAR(30) NOT NULL,
+  state VARCHAR(2) NOT NULL
+);
+
+
+CREATE TABLE output_file (
+  city VARCHAR(30) NOT NULL,
+  state VARCHAR(2) NOT NULL,
+  lattitude VARCHAR(20) NOT NULL,
+  longitude VARCHAR(20) NOT NULL,
+  salary INTEGER NOT NULL,
+  jobs INTEGER NOT NULL 
+);
+
+CREATE TABLE final_df_weights (
+  ranking INTEGER PRIMARY KEY,	
+  city VARCHAR(30) NOT NULL,
+  statecode VARCHAR(2) NOT NULL,
+  avg_sal INTEGER NOT NULL,
+  med_h	 INTEGER NOT NULL,
+  med_r	 INTEGER NOT NULL,
+  avg_h_temp	 DECIMAL NOT NULL,
+  avg_l_temp	 DECIMAL NOT NULL,
+  med_age	 DECIMAL NOT NULL,
+  unemp	  DECIMAL NOT NULL,
+  avg_price	 DECIMAL NOT NULL,
+  salary	 INTEGER NOT NULL,
+  positions	 INTEGER NOT NULL,
+  Lat	 DECIMAL NOT NULL,
+  Long	 DECIMAL NOT NULL,
+  mtg30	 DECIMAL NOT NULL,
+  mtg_by_sal	 DECIMAL NOT NULL,
+  mbs	 DECIMAL NOT NULL,
+  rent12	 INTEGER NOT NULL,
+  rent_by_sal	 DECIMAL NOT NULL,
+  rbs	 DECIMAL NOT NULL,
+  rent_mtg_avg	 DECIMAL NOT NULL,
+  rma_weight	 DECIMAL NOT NULL,
+  our_rank	 INTEGER NOT NULL,
+  combined score	 DECIMAL NOT NULL,
+  weighted score	 DECIMAL NOT NULL,
+  final_rank INTEGER NOT NULL
+);
